@@ -1,0 +1,26 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikSamaganam/Eatherium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikSamaganam/Eatherium/issues"
+  },
+  "homepage": "https://github.com/KarthikSamaganam/Eatherium#readme",
+  "dependencies": {
+    "ganache-cli": "*",
+    "mocha": "*",
+    "sha3": "*",
+    "solc": "*",
+    "web3": "^1.0.0-beta.26"
+  }
+}
